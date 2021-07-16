@@ -1,1 +1,1 @@
-https://github.com/JulienColombo/Juliencolombo.github.io
+https://juliencolombo.github.io/
